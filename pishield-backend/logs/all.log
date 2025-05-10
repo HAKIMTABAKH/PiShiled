@@ -1,0 +1,16 @@
+2025-04-20 15:18:07:187 [32minfo[39m: [32mServer running in development mode on port 3001[39m
+2025-04-20 15:18:18:1818 [32minfo[39m: [32mServer running in development mode on port 3001[39m
+2025-04-20 15:18:25:1825 [32minfo[39m: [32m::1 - - [20/Apr/2025:14:18:25 +0000] "GET /?ide_webview_request_time=1745158704969 HTTP/1.1" 404 139 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Trae/1.98.2 Chrome/132.0.6834.196 Electron/34.2.0 Safari/537.36"[39m
+2025-04-20 15:19:10:1910 [32minfo[39m: [32m::1 - - [20/Apr/2025:14:19:10 +0000] "GET / HTTP/1.1" 404 139 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+2025-04-20 15:20:17:2017 [32minfo[39m: [32m::1 - - [20/Apr/2025:14:20:17 +0000] "GET /routes/alerts.js HTTP/1.1" 404 155 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+2025-04-20 15:20:21:2021 [32minfo[39m: [32m::1 - - [20/Apr/2025:14:20:21 +0000] "GET /alerts.js HTTP/1.1" 404 148 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+2025-04-20 15:20:41:2041 [32minfo[39m: [32m::1 - - [20/Apr/2025:14:20:41 +0000] "GET /api/auth HTTP/1.1" 404 147 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"[39m
+2025-05-10 22:41:12:4112 [32minfo[39m: [32mServer running in development mode on port 3001[39m
+2025-05-10 22:43:41:4341 [32minfo[39m: [32m::1 - - [10/May/2025:21:43:41 +0000] "GET /api/dashboard/attack-sources HTTP/1.1" 401 40 "-" "HTTPie"[39m
+2025-05-10 22:47:49:4749 [32minfo[39m: [32m::1 - - [10/May/2025:21:47:49 +0000] "GET /api/dashboard/stats HTTP/1.1" 401 40 "-" "HTTPie"[39m
+2025-05-10 22:47:50:4750 [32minfo[39m: [32m::1 - - [10/May/2025:21:47:50 +0000] "GET /api/dashboard/stats HTTP/1.1" 401 40 "-" "HTTPie"[39m
+2025-05-10 22:48:09:489 [32minfo[39m: [32m::1 - - [10/May/2025:21:48:09 +0000] "GET / HTTP/1.1" 404 139 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"[39m
+2025-05-10 22:48:12:4812 [32minfo[39m: [32m::1 - - [10/May/2025:21:48:12 +0000] "GET /api/dashboard/stats HTTP/1.1" 401 40 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"[39m
+2025-05-10 22:48:12:4812 [32minfo[39m: [32m::1 - - [10/May/2025:21:48:12 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"[39m
+2025-05-10 22:50:55:5055 [32minfo[39m: [32mServer running in development mode on port 3001[39m
+2025-05-10 22:51:14:5114 [32minfo[39m: [32m::1 - - [10/May/2025:21:51:14 +0000] "GET / HTTP/1.1" 404 139 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"[39m
